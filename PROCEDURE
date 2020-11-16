@@ -1,0 +1,8 @@
+STEPS TO TAKE:
+1) create an account for  google cloud console
+2) Enable sheets api and drive api(optional)=>(if you have first saved it in drive first)
+3) Keep the json file safe in the folder you are working in.
+4) Install excel modules in python using pip install xlrd
+5) Install gsheets api modules => pip install gspread
+6) Give the permission in gsheats to access the contents through the username provided in json file.
+7) follow the python code.
